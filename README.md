@@ -8,17 +8,17 @@ A brief description of what this project does and who it's for
 
 This repository contains our comprehensive project for World Cup Database Systems, focusing on developing a relational database management system for the FIFA World Cup. The project is divided into three main parts, each progressively building upon the last to create a fully functional and user-friendly database application.
 ## Part 1: Database Design and Data Modeling
-
+You can check it in the folder reference.
 1. Developed an Entity-Relationship (ER) schema for the World Cup database.
 2. Derived a relational schema from the ER model.
 3. Focused on teams, players, coaches, stadiums, matches, and other relevant entities.
 ## Part 2: Database Creation and Querying
-
+You can check it in the folder data entry and operation, and folder result.
 1. Created the database schema in a DBMS (e.g., DB2) and populated tables with data.
 2. Implemented various queries and updates to maintain and manipulate data effectively.
 3. Emphasized indexing strategies for efficient data retrieval.
 ## Part 3: Application Development and Interface Implementation
-
+You can check it in the folder src.
 1. Developed application programs for interacting with the database.
 2. Implemented a user-friendly interface for data access and management.
 3. Used a standard programming language (e.g., Java) for application development.
